@@ -1,0 +1,69 @@
+{
+  "name": "HLPay",
+  "version": "0.0.1",
+  "description": "hlframework frontend web hlpay",
+  "productName": "哈林数字支付系统",
+  "author": "内蒙古哈林网络科技有限公司",
+  "private": true,
+  "scripts": {
+    "lint": "eslint --ext .js,.vue ./",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/cli": "^1.2.2",
+    "@quasar/extras": "^1.10.7",
+    "axios": "^0.21.1",
+    "axios-retry": "^3.1.9",
+    "core-js": "^3.6.5",
+    "decimal.js": "^10.3.1",
+    "echarts": "^4.4.0",
+    "file-saver": "^2.0.5",
+    "keyboardjs": "^2.6.4",
+    "lodash": "^4.17.21",
+    "md5": "^2.3.0",
+    "qrcode.vue": "^1.7.0",
+    "quasar": "^1.15.21",
+    "v-charts": "^1.19.0",
+    "vconsole": "^3.4.0",
+    "vue-canvas-poster": "^1.2.1",
+    "vue-class-component": "^7.2.6",
+    "vue-i18n": "^8.0.0",
+    "vue-json-pretty": "^2.1.1",
+    "vue-json-viewer": "^2.2.22",
+    "vue-jsonp": "^2.0.0",
+    "vue-property-decorator": "^9.1.2",
+    "vue-qr": "^4.0.9",
+    "wurl": "^2.5.4"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.2.10",
+    "@quasar/quasar-app-extension-qribbon": "^1.0.0-beta.15",
+    "babel-eslint": "^10.0.1",
+    "devtron": "^1.4.0",
+    "eslint": "^7.21.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-vue": "^7.7.0",
+    "workbox-webpack-plugin": "^5.1.4"
+  },
+  "browserslist": [
+    "ie >= 11",
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}
