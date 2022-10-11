@@ -89,4 +89,4 @@ Node.js >= 10
 
 ### 版权声明
 
-哈林数字支付系统 开源版遵循 [`Apache-2.0`](https://github.com/mochat-cloud/mochat/blob/main/LICENSE "GPL-3.0") 
+哈林数字支付系统 开源版遵循 [`Apache-2.0`](https://github.com/halinkeji/hlpay/blob/master/LICENSE.md ) 
