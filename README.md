@@ -75,17 +75,15 @@ Node.js >= 10
 
 ### PC部分演示图，持续更新
 
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-1.png "哈林数字支付系统")
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-2.png "哈林数字支付系统")
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-3.png "哈林数字支付系统")
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-4.png "哈林数字支付系统")
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-5.png "哈林数字支付系统")
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-6.png "哈林数字支付系统")
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-1.jpg "哈林数字支付系统")
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-2.jpg "哈林数字支付系统")
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-3.jpg "哈林数字支付系统")
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-4.jpg "哈林数字支付系统")
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-5.jpg "哈林数字支付系统")
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-6.jpg "哈林数字支付系统")
 
 ### H5支付部分演示图，持续更新
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-7.png "哈林数字支付系统")
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-8.jpg "哈林数字支付系统")
-![哈林数字支付系统](https://cdn.halin.net/download/qwscrm/qw-9.png "哈林数字支付系统")
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-7.jpg "哈林数字支付系统")
 
 ### 版权声明
 
