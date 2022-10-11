@@ -114,7 +114,7 @@ Node.js >= 10
 <img alt="logo" src="https://cdn.halin.net/download/qwscrm_kefu.png" height="200">
 
 ### PC部分演示图，持续更新
-
+![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-0.jpg "哈林数字支付系统")
 ![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-1.jpg "哈林数字支付系统")
 ![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-2.jpg "哈林数字支付系统")
 ![哈林数字支付系统](https://cdn.halin.net/download/hlpay/hlpay-3.jpg "哈林数字支付系统")
